@@ -1,4 +1,4 @@
 # Movie Recommender
 
-Collaborative filtering implementation used in a movie recommendation system as an application.
+Collaborative Filtering algorithm implementation used in a movie recommendation system as an application.
 
